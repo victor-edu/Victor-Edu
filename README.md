@@ -14,9 +14,9 @@
 <p align="center"><i>""</i></p> -->
 
 <div align="center">
-  <a href="https://github.com/duribeiro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=duribeiro&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=duribeiro&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/victor-edu">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=victor-edu&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-edu&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
